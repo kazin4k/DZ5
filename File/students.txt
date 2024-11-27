@@ -1,0 +1,12 @@
+Mullagaliev,Amir,2007,Math,83
+Mingalev,Andrey,2006,Math,97
+Shamsutdinov,Nursultan,2005,Physics,85
+Doragan,Andrey,2006,RussianLang,87
+Gindullin,Marat,2006,Inform,89
+Markelov,Misha,2006,Math,93
+Valeev,Serega,2006,Physics,89
+Nazarova,Dasha,2006,Inform,91
+Balobanova,Arina,2006,Physics,98
+Guro,Ruslan,2006,Math,94
+
+
